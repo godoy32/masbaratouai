@@ -152,6 +152,7 @@ tr {
 						<option value = "sku">Numero SKU erroneo</option>
 						<option value = "nombre">Nombre erroneo</option>
 						<option value = "lugar">Lugar erroneo</option>
+						<option value = "imagen">Imagen erronea</option>
 						<option value = "otro">Otro</option>
 						</select>
 						<textarea name = "text" form = "form"></textarea>
